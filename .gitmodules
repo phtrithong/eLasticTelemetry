@@ -1,0 +1,12 @@
+[submodule "elte-core"]
+	path = elte-core
+	url = https://github.com/phtrithong/elte-core.git
+[submodule "elte-lorawan-translator"]
+	path = elte-lorawan-translator
+	url = https://github.com/phtrithong/elte-lorawan-translator.git
+[submodule "elte-zwave-translator"]
+	path = elte-zwave-translator
+	url = https://github.com/phtrithong/elte-zwave-translator.git
+[submodule "elte-modbus-translator"]
+	path = elte-modbus-translator
+	url = https://github.com/phtrithong/elte-modbus-translator.git
