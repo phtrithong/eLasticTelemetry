@@ -10,3 +10,9 @@
 [submodule "elte-modbus-translator"]
 	path = elte-modbus-translator
 	url = https://github.com/phtrithong/elte-modbus-translator.git
+[submodule "elte-cloud-connector"]
+	path = elte-cloud-connector
+	url = https://github.com/phtrithong/elte-cloud-connector.git
+[submodule "elte-cloud"]
+	path = elte-cloud
+	url = https://github.com/phtrithong/elte-cloud.git
